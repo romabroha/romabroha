@@ -1,16 +1,94 @@
-## Hi there 👋
+# 01juraze
 
-<!--
-**romabroha/romabroha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Solutions Engineer | AI Automation Engineer
 
-Here are some ideas to get you started:
+Разрабатываю AI-инструменты и автоматизации для бизнес-процессов. Работаю с Python, LLM API, REST API, Google Sheets, Telegram, n8n, Make и интеграциями между сервисами.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Фокусируюсь на прикладных задачах: от анализа бизнес-процесса и проектирования решения до рабочего MVP, пилотного внедрения и понятной документации.
+
+## Ключевые направления
+
+- AI Automation
+- LLM Applications
+- Business Process Automation
+- API Integrations
+- Telegram Bots
+- Sales Automation
+- AI Analytics
+- Internal AI Tools
+
+## Технологии
+
+**AI и LLM:** OpenAI API, LLM API, Prompt Engineering
+
+**Backend и данные:** Python, REST API, JSON, CSV, SQLite
+
+**Автоматизация:** n8n, Make, Google Sheets API, Telegram Bot API, Webhooks
+
+**Инструменты:** Git, GitHub, Postman, HTML, CSS, JavaScript
+
+**Сейчас развиваю:** FastAPI, PostgreSQL, Docker, Linux, RAG, MCP, AI Agents, архитектуру production AI-сервисов
+
+## Основные проекты
+
+### AI Call Analyzer
+
+AI-сервис для анализа качества звонков менеджеров.
+
+Планируемое публичное описание демонстрационной версии:
+
+- анализ транскриптов звонков;
+- оценка разговора по заданным критериям;
+- формирование структурированного отчета;
+- подготовка данных для аналитики и Google Sheets;
+- работа только с обезличенными demo-данными.
+
+### Sales Assistant
+
+Рекомендательная система для менеджеров продаж на основе истории заказов и товарного каталога.
+
+Планируемое публичное описание демонстрационной версии:
+
+- анализ истории заказов;
+- формирование товарных рекомендаций;
+- подбор сопутствующих товаров и аналогов;
+- учет остатков в demo-данных;
+- выгрузка результата в структурированном формате.
+
+### Telegram AI Assistant
+
+Telegram-боты и AI-ассистенты для автоматизации внутренних процессов.
+
+Планируемое публичное описание демонстрационной версии:
+
+- обработка сообщений и команд;
+- интеграции с API;
+- работа с LLM;
+- передача данных между сервисами;
+- автоматизация рутинных операций.
+
+### ds-weapp
+
+Демонстрационный Telegram WebApp / HTML-каталог для оформления заявки.
+
+Проект показывает интерфейс каталога, корзину и сценарий подготовки заявки. Не является AI-проектом, но демонстрирует умение собирать прикладной интерфейс под бизнес-задачу.
+
+## Сейчас развиваю
+
+- FastAPI
+- PostgreSQL
+- Docker
+- Linux
+- RAG
+- MCP
+- AI Agents
+- архитектуру AI-сервисов для реальных бизнес-процессов
+
+## Контакты
+
+Telegram: `<добавить_telegram>`
+
+Email: `<добавить_email>`
+
+Резюме: `<добавить_ссылку>`
+
